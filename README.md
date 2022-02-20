@@ -124,4 +124,5 @@ The latest MIPS32 revision is revision 5, which added a set of new memory-effici
 
 ![WB](https://user-images.githubusercontent.com/84762990/154839422-6466e452-e701-49b2-b1c2-ac9869ffbbe7.png)
 
-https://i.stack.imgur.com/7yPhC.jpg
+![image](https://user-images.githubusercontent.com/84762990/154840704-5e67ed10-9fd6-4346-880e-5f6186718f50.png)
+
